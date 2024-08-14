@@ -1,5 +1,5 @@
 //GestureDetector widget
-//제스처 위젯
+//제스처 위젯의 종류와 사용
 
 /onTap
 //한 번 탭했을 때 실행되는 함수를 입력할 수 있다.
