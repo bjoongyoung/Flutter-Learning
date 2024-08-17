@@ -11,9 +11,11 @@
 
 /MainAxisAlignment.end
 //끝에 정렬
+  
 
 /MainAxisAlignment.spaceBetween
 //자식 위젯의 간격을 균등하게 정렬
+  
 
 /MainAxisAlignment.spaceAround
 //자식 위젯의 간격을 균등하게 배정하고 왼쪽 끝과 
